@@ -1,4 +1,4 @@
-# Projeto-CSS3-Intermediario-e-avancado
+# Continuando os Estudos
 
 ## Projetos em HTML5 e CSS3 intermediario e avançado
 
