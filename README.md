@@ -5,4 +5,4 @@
 
 🚀Projeto 01 - Site Notícias Cidade<br>
 🚀Projeto 02 - Chalé Hotel<br>
-🚀Projeto 02 - em Parallax<br>
+🚀Projeto 03 - Parallax<br>
